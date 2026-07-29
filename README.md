@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Lingadharan 👋
 
-<!--
-**lingadharan/lingadharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer building modern web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+Backend:
+- Node.js
+- Express
+- MongoDB
+
+## Projects
+
+📚 Personal Book Tracker  
+Full-stack reading management application.
+
+🟢 Grammar Gamma  
+English learning platform.
